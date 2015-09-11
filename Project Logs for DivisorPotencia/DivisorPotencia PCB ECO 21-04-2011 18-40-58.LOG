@@ -1,0 +1,22 @@
+Added Component: Designator=P1(SMAL2)
+Added Component: Designator=P2(SMAL2)
+Added Component: Designator=P3(SMAL2)
+Added Pin To Net: NetName=OUT2 Pin=P1-1
+Added Pin To Net: NetName=IN Pin=P2-1
+Added Pin To Net: NetName=OUT3 Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P1-0
+Added Pin To Net: NetName=GND Pin=P1-0
+Added Pin To Net: NetName=GND Pin=P1-0
+Added Pin To Net: NetName=GND Pin=P1-0
+Added Pin To Net: NetName=GND Pin=P2-0
+Added Pin To Net: NetName=GND Pin=P2-0
+Added Pin To Net: NetName=GND Pin=P2-0
+Added Pin To Net: NetName=GND Pin=P2-0
+Added Pin To Net: NetName=GND Pin=P3-0
+Added Pin To Net: NetName=GND Pin=P3-0
+Added Pin To Net: NetName=GND Pin=P3-0
+Added Pin To Net: NetName=GND Pin=P3-0
+Added Net: Name=GND
+Added Member To Class: ClassName=DivisorPotResistva Member=Component P1 SMA2
+Added Member To Class: ClassName=DivisorPotResistva Member=Component P2 SMA2
+Added Member To Class: ClassName=DivisorPotResistva Member=Component P3 SMA2

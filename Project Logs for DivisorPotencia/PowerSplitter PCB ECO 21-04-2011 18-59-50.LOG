@@ -1,0 +1,34 @@
+Added Component: Designator=P1(SMAL2)
+Added Component: Designator=P2(SMAL2)
+Added Component: Designator=P3(SMAL2)
+Added Component: Designator=R1(0805_RES)
+Added Component: Designator=R2(0805_RES)
+Added Component: Designator=R3(0805_RES)
+Added Pin To Net: NetName=GND Pin=P1-0
+Added Pin To Net: NetName=GND Pin=P1-0
+Added Pin To Net: NetName=GND Pin=P1-0
+Added Pin To Net: NetName=GND Pin=P1-0
+Added Pin To Net: NetName=GND Pin=P2-0
+Added Pin To Net: NetName=GND Pin=P2-0
+Added Pin To Net: NetName=GND Pin=P2-0
+Added Pin To Net: NetName=GND Pin=P2-0
+Added Pin To Net: NetName=GND Pin=P3-0
+Added Pin To Net: NetName=GND Pin=P3-0
+Added Pin To Net: NetName=GND Pin=P3-0
+Added Pin To Net: NetName=GND Pin=P3-0
+Added Net: Name=GND
+Added Pin To Net: NetName=IN Pin=P2-1
+Added Pin To Net: NetName=IN Pin=R2-1
+Added Net: Name=IN
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R2-2
+Added Pin To Net: NetName=NetR1_1 Pin=R3-2
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=OUT2 Pin=P1-1
+Added Pin To Net: NetName=OUT2 Pin=R1-2
+Added Net: Name=OUT2
+Added Pin To Net: NetName=OUT3 Pin=P3-1
+Added Pin To Net: NetName=OUT3 Pin=R3-1
+Added Net: Name=OUT3
+Added Class: Name=DivisorPotResistva
+Added Room: Name=DivisorPotResistva

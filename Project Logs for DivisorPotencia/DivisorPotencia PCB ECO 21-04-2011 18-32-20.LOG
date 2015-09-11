@@ -1,0 +1,14 @@
+Added Component: Designator=R?(0805_RES)
+Added Component: Designator=R?(0805_RES)
+Added Component: Designator=R?(0805_RES)
+Added Pin To Net: NetName=IN Pin=R?-1
+Added Net: Name=IN
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=OUT2 Pin=R?-2
+Added Net: Name=OUT2
+Added Pin To Net: NetName=OUT3 Pin=R?-1
+Added Net: Name=OUT3
+Added Class: Name=DivisorPotResistva

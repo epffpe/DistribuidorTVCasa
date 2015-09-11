@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=OUT2 Pin=R?-2
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Added Pin To Net: NetName=OUT2 Pin=R1-2
+Change Net Name : Old Net Name=OUT3 New Net Name=IN
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R2-2
+Added Pin To Net: NetName=NetR1_1 Pin=R3-2
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=OUT3 Pin=R3-1
+Added Net: Name=OUT3
+Added Member To Class: ClassName=DivisorPotResistva Member=Component R1 Resistor
+Added Member To Class: ClassName=DivisorPotResistva Member=Component R2 Resistor
